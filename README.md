@@ -165,3 +165,15 @@ Based on this evaluation, the random forest model was identified as the more sui
 
 ### Requirements
 Install the required Python dependencies with `requirements.txt`
+
+---
+### Why this project belongs in my portfolio
+This capstone project demonstrates not only technical competency with supervised machine learning, but also the analytical judgement required to apply these techniques responsibly.
+
+Rather than optimising blindly for performance, the analysis emphasises:
+
+- transparency of decisions
+- interpretability of results
+- alignment of evaluation metrics with business context
+
+It reflects how machine learning is applied in practice: iteratively, cautiously, and with attention to both data and real-world implications.
